@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KotlinWeather</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="city_name">%1$s, %2$s</string>
+    <string name="pressure">Pressure\n%1$s hPA</string>
+    <string name="humidity">Humidity\n%1$s</string>
+    <string name="max_temp">max %1$s °C</string>
+    <string name="min_temp">min %1$s °C</string>
+    <string name="day_temp">Day %1$s °C</string>
+    <string name="night_temp">Night %1$s °C</string>
+</resources>

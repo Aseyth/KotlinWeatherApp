@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/ic_location"
+            android:title="Paris"/>
+        <item
+            android:icon="@drawable/ic_location"
+            android:title="Amsterdam"/>
+        <item
+            android:icon="@drawable/ic_location"
+            android:title="Helsinki"/>
+        <item
+            android:icon="@drawable/ic_location"
+            android:title="Moscow"/>
+        <item
+            android:icon="@drawable/ic_location"
+            android:title="London"/>
+        <item
+            android:icon="@drawable/ic_location"
+            android:title="Berlin"/>
+        <item
+            android:icon="@drawable/ic_location"
+            android:title="Madrid"/>
+        <item
+            android:icon="@drawable/ic_location"
+            android:title="Vienna"/>
+        <item
+            android:icon="@drawable/ic_location"
+            android:title="Monaco"/>
+        <item
+            android:icon="@drawable/ic_location"
+            android:title="Warsaw"/>
+    </group>
+
+</menu>
